@@ -1,0 +1,8 @@
+{
+  "interfaceFontFamily": "Segoe Print,Lucida Console",
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Monaco,Segoe Print,Bodoni 72 Oldstyle",
+  "enabledCssSnippets": [
+    "image-center"
+  ]
+}
