@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "behavioral pattern"
             }
+          },
+          {
+            "id": "e28c720823d8ee7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/rust/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "721ebc7cbff44e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/python/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/设计模式/behavioral pattern.md",
+                "file": "Language/python/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "behavioral pattern 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -141,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/设计模式/behavioral pattern.md",
+                "file": "Language/python/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "behavioral pattern 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -179,15 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c70b1af352778511",
+  "active": "a7e52cf17fd6d8a8",
   "lastOpenFiles": [
-    "Pasted image 20250530172726.png",
+    "Language/rust/未命名.md",
+    "Language/python/未命名.md",
+    "Books/设计模式/img/Pasted image 20250530172726.png",
+    "Books/设计模式/behavioral pattern.md",
     "Books/设计模式/img/Pasted image 20250530172511.png",
     "Books/设计模式/img/Pasted image 20250530172205.png",
     "Books/设计模式/img/Pasted image 20250530171813.png",
     "Books/设计模式/img/Pasted image 20250530171719.png",
     "Books/设计模式/img/Pasted image 20250530171538.png",
-    "Books/设计模式/behavioral pattern.md",
     "Books/设计模式/img",
     "Books/设计模式/creational pattern.md",
     "Books/设计模式/structural pattern.md",
