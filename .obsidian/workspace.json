@@ -4,20 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a9927010d0806d",
+        "id": "af43f3af231220e4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd837b67ffc81f27",
+            "id": "dff95191f3f9b8d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resource/ROADMAP/c++ road.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "c++ road"
+            }
+          },
+          {
+            "id": "92c3ba2d89b33617",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,17 +197,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd837b67ffc81f27",
+  "active": "92c3ba2d89b33617",
   "lastOpenFiles": [
-    "GUI/godot.md",
+    "未命名.canvas",
+    "Resource/github仓库.md",
+    "Resource/ROADMAP/c++ road.md",
+    "Resource",
+    "Resource/ROADMAP",
+    "Language/rust/11.包和模块.md",
+    "Language/rust/12.注释和文档.md",
+    "Language/rust/13.格式化输出.md",
+    "Algo/通用算法/0.索引.md",
+    "Language/rust/0.变量绑定与解构.md",
+    "Language/rust/1.基本类型.md",
+    "Language/rust/2.所有权与借用.md",
+    "Language/rust/3.复合类型.md",
+    "Language/rust/4.流程控制.md",
+    "Language/rust/5.模式匹配.md",
+    "Language/rust/6.方法.md",
+    "Language/rust/7.泛型和特征.md",
+    "Language/rust/8.集合类型.md",
+    "Language/rust/9.认识生命周期.md",
+    "Language/rust/10.返回值和错误处理.md",
+    "hack/索引.md",
     "GUI/Dear ImGui.md",
-    "GUI/QT.md",
-    "GUI/react.md",
-    "Books/设计模式/behavioral pattern.md",
-    "Language/rust/未命名.md",
-    "GUI/WPF.md",
+    "Algo/计算机图形学",
+    "hack",
+    "GUI/godot.md",
+    "Algo/通用算法/9.字符串.md",
+    "Algo/通用算法/12.贪心法.md",
+    "Algo/通用算法/11.搜索.md",
+    "Algo/通用算法/10.数学.md",
+    "Algo/通用算法/6.排序.md",
     "GUI",
-    "Language/python/未命名.md",
     "Books/设计模式/img/Pasted image 20250530172726.png",
     "Books/设计模式/img/Pasted image 20250530172511.png",
     "Books/设计模式/img/Pasted image 20250530172205.png",
@@ -193,29 +237,9 @@
     "Books/设计模式/img/Pasted image 20250530171719.png",
     "Books/设计模式/img/Pasted image 20250530171538.png",
     "Books/设计模式/img",
-    "Books/设计模式/creational pattern.md",
-    "Books/设计模式/structural pattern.md",
-    "Algo/通用算法/2.位操作.md",
-    "Algo/通用算法/1.数据结构.md",
-    "Algo/通用算法/0.索引.md",
-    "Algo/通用算法/4.大整数.md",
-    "Algo/通用算法/3.回溯法.md",
-    "Algo/通用算法/5.动态规划.md",
-    "Algo/通用算法/6.排序.md",
-    "Algo/通用算法/7.压缩算法.md",
-    "Algo/通用算法/8.图.md",
-    "Algo/通用算法/9.字符串.md",
-    "Algo/通用算法/10.数学.md",
-    "Algo/通用算法/11.搜索.md",
-    "Algo/通用算法/12.贪心法.md",
-    "Algo/通用算法/13.转换.md",
     "Algo/通用算法/刷题",
     "Projects/zlib/xv6",
     "Projects/llvm",
-    "Books/重构",
-    "Books/设计模式",
-    "Projects/nethack",
-    "Projects/gVisor",
-    "Projects/filament"
+    "Books/重构"
   ]
 }
