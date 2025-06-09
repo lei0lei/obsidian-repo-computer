@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-outliner",
   "obsidian-admonition",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "table-editor-obsidian",
+  "automatic-table-of-contents"
 ]

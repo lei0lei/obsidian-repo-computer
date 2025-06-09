@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af43f3af231220e4",
+        "id": "a297113300890455",
         "type": "tabs",
         "children": [
           {
-            "id": "dff95191f3f9b8d6",
+            "id": "aef2bb5ccbf13930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/ROADMAP/c++ road.md",
+                "file": "Resource/github仓库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c++ road"
-            }
-          },
-          {
-            "id": "92c3ba2d89b33617",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "github仓库"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,6 +159,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "904c535b4f6b8afe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -194,14 +186,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92c3ba2d89b33617",
+  "active": "88b43882526611d7",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Resource/github仓库.md",
     "Resource/ROADMAP/c++ road.md",
+    "Resource/github仓库.md",
+    "Books/设计模式/img/Pasted image 20250530172205.png",
+    "未命名.canvas",
     "Resource",
     "Resource/ROADMAP",
     "Language/rust/11.包和模块.md",
@@ -232,7 +226,6 @@
     "GUI",
     "Books/设计模式/img/Pasted image 20250530172726.png",
     "Books/设计模式/img/Pasted image 20250530172511.png",
-    "Books/设计模式/img/Pasted image 20250530172205.png",
     "Books/设计模式/img/Pasted image 20250530171813.png",
     "Books/设计模式/img/Pasted image 20250530171719.png",
     "Books/设计模式/img/Pasted image 20250530171538.png",
