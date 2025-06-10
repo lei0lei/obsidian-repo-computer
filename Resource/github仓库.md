@@ -66,3 +66,12 @@ https://github.com/0voice/interview_internal_reference
 https://github.com/afatcoder/LeetcodeTop
 https://github.com/apachecn/Interview
 https://github.com/perkfly/reverse-interview-zh
+
+
+https://github.com/wangzheng0822/algo
+https://github.com/codecrafters-io/build-your-own-x
+https://github.com/donnemartin/system-design-primer
+https://github.com/CyC2018/CS-Notes
+https://github.com/ossu/computer-science
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/labuladong/fucking-algorithm
